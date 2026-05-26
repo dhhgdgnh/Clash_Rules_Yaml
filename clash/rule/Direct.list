@@ -1,6 +1,5 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
-# MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,dmsu.cc
 DOMAIN-SUFFIX,zcsu.net
@@ -10,10 +9,34 @@ DOMAIN-SUFFIX,tagweb.vip
 DOMAIN-SUFFIX,iepose.cn
 DOMAIN-SUFFIX,deepseek.com
 
-
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,tagss
+
+# steam直连域名获取国内CDN走国内线路下载
+DOMAIN,cm.steampowered.com
+DOMAIN,steamserver.net
+# steam国内CDN华为云
+DOMAIN,steampipe.steamcontent.tnkjmec.com
+# steam国内CDN白山云
+DOMAIN,st.dl.eccdnx.com
+DOMAIN,st.dl.bscstorage.net
+DOMAIN,st.dl.pinyuncloud.com
+# steam国内CDN新流云(原金山云)(支持ipv6)
+DOMAIN,dl.steam.clngaa.com
+# steam国内CDN网宿
+DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com
+DOMAIN,cdn-ws.content.steamchina.com
+# steam国内CDN腾讯云 (蒸汽中国独占)
+DOMAIN,cdn-qc.content.steamchina.com
+# steam国内CDN阿里云(支持ipv6)
+DOMAIN,cdn-ali.content.steamchina.com
+DOMAIN,xz.pphimalayanrt.com
+DOMAIN,lv.queniujq.cn
+DOMAIN,alibaba.cdn.steampipe.steamcontent.com
+
+# 国内游戏geosite域名
+DOMAIN,geosite:category-games@cn
 
 # IP段匹配
 IP-CIDR,64.186.228.46/32,no-resolve
@@ -33,3 +56,28 @@ IP-CIDR,223.6.6.6/32,no-resolve
 IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
+
+# steam直连IP
+IP-CIDR,45.121.184.0/24,no-resolve
+IP-CIDR,103.10.124.0/23,no-resolve
+IP-CIDR,103.28.54.0/24,no-resolve
+IP-CIDR,146.66.152.0/24,no-resolve
+IP-CIDR,146.66.155.0/24,no-resolve
+IP-CIDR,153.254.86.0/24,no-resolve
+IP-CIDR,155.133.224.0/22,no-resolve
+IP-CIDR,155.133.230.0/24,no-resolve
+IP-CIDR,155.133.232.0/23,no-resolve
+IP-CIDR,155.133.234.0/24,no-resolve
+IP-CIDR,155.133.236.0/22,no-resolve
+IP-CIDR,155.133.240.0/23,no-resolve
+IP-CIDR,155.133.244.0/23,no-resolve
+IP-CIDR,155.133.246.0/24,no-resolve
+IP-CIDR,155.133.248.0/21,no-resolve
+IP-CIDR,162.254.192.0/21,no-resolve
+IP-CIDR,185.25.182.0/23,no-resolve
+IP-CIDR,190.217.32.0/22,no-resolve
+IP-CIDR,192.69.96.0/22,no-resolve
+IP-CIDR,205.196.6.0/24,no-resolve
+IP-CIDR,208.64.200.0/22,no-resolve
+IP-CIDR,208.78.164.0/22,no-resolve
+IP-CIDR,205.185.194.0/24,no-resolve
