@@ -9,6 +9,9 @@ DOMAIN-SUFFIX,dhrest.com
 DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
+DOMAIN-SUFFIX,tmfsdk.m.qq.com
+DOMAIN-SUFFIX,tmfsdk4.m.qq.com
+DOMAIN-SUFFIX,api.kingdata.ksyun.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,360
@@ -23,7 +26,7 @@ DOMAIN,restapi.amap.com
 DOMAIN,rce.tencentcloudapi.com
 
 # IP段匹配
-#IP-CIDR,64.139.226.46/32,no-resolve
+IP-CIDR,111.13.141.211/32,no-resolve
 
 
 
