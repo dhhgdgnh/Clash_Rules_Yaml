@@ -14,13 +14,13 @@ DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-KEYWORD,360
 
 #完整域名匹配
-- DOMAIN,aip.baidubce.com
-- DOMAIN,api.map.baidu.com
-- DOMAIN,ubapi.baidu.com
-- DOMAIN,restapi.amap.com
-- DOMAIN,webapi.amap.com
-- DOMAIN,restapi.amap.com
-- DOMAIN,rce.tencentcloudapi.com
+DOMAIN,aip.baidubce.com
+DOMAIN,api.map.baidu.com
+DOMAIN,ubapi.baidu.com
+DOMAIN,restapi.amap.com
+DOMAIN,webapi.amap.com
+DOMAIN,restapi.amap.com
+DOMAIN,rce.tencentcloudapi.com
 
 # IP段匹配
 #IP-CIDR,64.139.226.46/32,no-resolve
