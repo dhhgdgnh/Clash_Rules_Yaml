@@ -14,13 +14,13 @@ DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-KEYWORD,360
 
 #完整域名匹配
-- DOMAIN,aip.baidubce.com  #百度通用API接口域名
-- DOMAIN,api.map.baidu.com  #百度地图服务与Web API域
-- DOMAIN,ubapi.baidu.com  #百度联盟数据报告API
-- DOMAIN,restapi.amap.com  #高德核心及Web服务域名
-- DOMAIN,webapi.amap.com  #高德网页端地图的渲染与组件调
-- DOMAIN,restapi.amap.com  #高德静态地图API域名
-- DOMAIN,rce.tencentcloudapi.com  #腾讯云API接口
+- DOMAIN,aip.baidubce.com
+- DOMAIN,api.map.baidu.com
+- DOMAIN,ubapi.baidu.com
+- DOMAIN,restapi.amap.com
+- DOMAIN,webapi.amap.com
+- DOMAIN,restapi.amap.com
+- DOMAIN,rce.tencentcloudapi.com
 
 # IP段匹配
 #IP-CIDR,64.139.226.46/32,no-resolve
