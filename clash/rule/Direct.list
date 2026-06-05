@@ -10,7 +10,6 @@ DOMAIN-SUFFIX,iepose.cn
 DOMAIN-SUFFIX,deepseek.com
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,tagss
 
 # steam直连域名获取国内CDN走国内线路下载
