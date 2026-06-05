@@ -1,0 +1,23 @@
+# 阻止列表
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,so.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,360
+
+#完整域名匹配
+- DOMAIN,aip.baidubce.com  #百度通用API接口域名
+- DOMAIN,api.map.baidu.com  #百度地图服务与Web API域
+- DOMAIN,ubapi.baidu.com  #百度联盟数据报告API
+- DOMAIN,restapi.amap.com  #高德核心及Web服务域名
+- DOMAIN,webapi.amap.com  #高德网页端地图的渲染与组件调
+- DOMAIN,restapi.amap.com  #高德静态地图API域名
+- DOMAIN,rce.tencentcloudapi.com  #腾讯云API接口
+
+# IP段匹配
+#IP-CIDR,64.139.226.46/32,no-resolve
+
+
+
+
