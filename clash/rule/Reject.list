@@ -9,9 +9,6 @@ DOMAIN-SUFFIX,dhrest.com
 DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
-DOMAIN-SUFFIX,tmfsdk.m.qq.com
-DOMAIN-SUFFIX,tmfsdk4.m.qq.com
-DOMAIN-SUFFIX,api.kingdata.ksyun.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,360
@@ -24,6 +21,17 @@ DOMAIN,restapi.amap.com
 DOMAIN,webapi.amap.com
 DOMAIN,restapi.amap.com
 DOMAIN,rce.tencentcloudapi.com
+
+#小米内置拦截
+DOMAIN,adv.sec.miui.com
+DOMAIN,ts.market.mi-img.com
+DOMAIN,api.miui.security.xiaomi.com
+DOMAIN,data.sec.miui.com
+DOMAIN,resolver.msg.xiaomi.net
+DOMAIN,mcc.inf.miui.com
+DOMAIN,tmfsdk.m.qq.com
+DOMAIN,tmfsdk4.m.qq.com
+DOMAIN,api.kingdata.ksyun.com
 
 # IP段匹配
 IP-CIDR,111.13.141.211/32,no-resolve
