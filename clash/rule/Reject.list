@@ -35,6 +35,8 @@ DOMAIN,api.kingdata.ksyun.com
 DOMAIN,api.ad.xiaomi.com
 DOMAIN,virus-engine.sec.miui.com
 DOMAIN,miav-cse.avlyun.com
+DOMAIN,idm.iot.mi.com
+DOMAIN,tracking.miui.com
 
 # IP段匹配
 IP-CIDR,111.13.141.211/32,no-resolve
