@@ -32,6 +32,7 @@ DOMAIN,mcc.inf.miui.com
 DOMAIN,tmfsdk.m.qq.com
 DOMAIN,tmfsdk4.m.qq.com
 DOMAIN,api.kingdata.ksyun.com
+DOMAIN,api.ad.xiaomi.com
 
 # IP段匹配
 IP-CIDR,111.13.141.211/32,no-resolve
