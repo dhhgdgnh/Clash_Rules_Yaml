@@ -26,8 +26,11 @@
 * 常见规则调用
 
 你可以将其下载，直接在你的 Clash 客户端中加载使用。  
-下载配置文件修改proxy-providers下的url: "订阅地址"为自己的订阅链接导入客户端使用即可。  
+下载配置文件修改proxy-providers下的url: "订阅地址"为自己的订阅链接导入客户端使用即可。 
 
+Icons地址请使用raw地址
+
+        例如：https://raw.githubusercontent.com/dhhgdgnh/Clash_Rules_Yaml/blob/main/clash/icon/AI.png
 ## ❤️ 致谢
 
 **原项目仓库地址**
